@@ -66,3 +66,5 @@ public class GameRPS
 			System.out.printf("%s%n", s1);
 	}
 }
+
+// Good job, mflores17..Need to knoow your name and need to add more comments in code please
